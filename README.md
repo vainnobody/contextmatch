@@ -1,4 +1,4 @@
-# contextmatch
+# ContextMatch
 
 This repository contains the official implementation of the ContextMatch.
 
