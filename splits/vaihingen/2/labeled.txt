@@ -1,0 +1,2 @@
+Vaihingen/train/image/top_mosaic_09cm_area1.tif Vaihingen/train/label/top_mosaic_09cm_area1.tif
+Vaihingen/train/image/top_mosaic_09cm_area11.tif Vaihingen/train/label/top_mosaic_09cm_area11.tif

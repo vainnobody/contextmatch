@@ -1,0 +1,17 @@
+Vaihingen/val/ori_image/top_mosaic_09cm_area10.tif Vaihingen/val/ori_label/top_mosaic_09cm_area10.tif
+Vaihingen/val/ori_image/top_mosaic_09cm_area12.tif Vaihingen/val/ori_label/top_mosaic_09cm_area12.tif
+Vaihingen/val/ori_image/top_mosaic_09cm_area14.tif Vaihingen/val/ori_label/top_mosaic_09cm_area14.tif
+Vaihingen/val/ori_image/top_mosaic_09cm_area16.tif Vaihingen/val/ori_label/top_mosaic_09cm_area16.tif
+Vaihingen/val/ori_image/top_mosaic_09cm_area2.tif Vaihingen/val/ori_label/top_mosaic_09cm_area2.tif
+Vaihingen/val/ori_image/top_mosaic_09cm_area20.tif Vaihingen/val/ori_label/top_mosaic_09cm_area20.tif
+Vaihingen/val/ori_image/top_mosaic_09cm_area22.tif Vaihingen/val/ori_label/top_mosaic_09cm_area22.tif
+Vaihingen/val/ori_image/top_mosaic_09cm_area24.tif Vaihingen/val/ori_label/top_mosaic_09cm_area24.tif
+Vaihingen/val/ori_image/top_mosaic_09cm_area27.tif Vaihingen/val/ori_label/top_mosaic_09cm_area27.tif
+Vaihingen/val/ori_image/top_mosaic_09cm_area29.tif Vaihingen/val/ori_label/top_mosaic_09cm_area29.tif
+Vaihingen/val/ori_image/top_mosaic_09cm_area31.tif Vaihingen/val/ori_label/top_mosaic_09cm_area31.tif
+Vaihingen/val/ori_image/top_mosaic_09cm_area33.tif Vaihingen/val/ori_label/top_mosaic_09cm_area33.tif
+Vaihingen/val/ori_image/top_mosaic_09cm_area35.tif Vaihingen/val/ori_label/top_mosaic_09cm_area35.tif
+Vaihingen/val/ori_image/top_mosaic_09cm_area38.tif Vaihingen/val/ori_label/top_mosaic_09cm_area38.tif
+Vaihingen/val/ori_image/top_mosaic_09cm_area4.tif Vaihingen/val/ori_label/top_mosaic_09cm_area4.tif
+Vaihingen/val/ori_image/top_mosaic_09cm_area6.tif Vaihingen/val/ori_label/top_mosaic_09cm_area6.tif
+Vaihingen/val/ori_image/top_mosaic_09cm_area8.tif Vaihingen/val/ori_label/top_mosaic_09cm_area8.tif

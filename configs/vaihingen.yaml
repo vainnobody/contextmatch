@@ -1,0 +1,30 @@
+# arguments for dataset
+dataset: vaihingen
+nclass: 5
+crop_size: 512
+data_root: '/data2/users/lanjie/proj/SSL_workplace/dataset/'
+
+# arguments for training
+epochs: 75
+batch_size: 8 # per GPU x 4 GPUs
+# lr: 0.00005
+lr: 0.0001
+lr_multi: 1.0
+criterion:
+  name: CELoss
+  kwargs:
+    ignore_index: 5
+conf_thresh: 0.95
+amp: True
+workers: 1
+ignore_index: 5
+PATCH_SIZE: 32
+MAX_RATIO: 0.75
+
+
+# eval_mode: resize
+eval_mode: slide_window
+model: deeplabv3plus
+backbone: resnet101
+replace_stride_with_dilation: [False, False, True]
+dilations: [6, 12, 18]
